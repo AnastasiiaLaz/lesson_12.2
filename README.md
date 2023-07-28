@@ -1,1 +1,1 @@
-# Проект для знакомства с pytest
+im just test
